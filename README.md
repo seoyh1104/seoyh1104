@@ -1,4 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there,%20I'm%20Yuhui.&fontSize=60&animation=fadeIn&desc=Yuhui's%20Dev%20Blog&descSize=16&descAlign=70)
+
 ### Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyh1104&show_icons=true&theme=radical)
 
 <!--
 **seoyh1104/seoyh1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
