@@ -2,9 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=280&section=header&text=Hi%20there,%20I'm%20Yuhui.&fontSize=60&desc=Yuhui's%20Dev%20Blog&descSize=16&descAlign=73&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=26&color=9600F7&center=true&lines=Hi+there%F0%9F%91%8B%2C+I'm+Yuhui+Seo.)](https://git.io/typing-svg)
-
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=26&color=9600F7&center=true&lines=Hi+there%F0%9F%91%8B%2C+I'm+Yuhui+Seo.)](https://git.io/typing-svg)
 
 ## 🖥 Tech Stack
 
@@ -30,6 +30,12 @@
 
 ### My Github Stats
 ![Yuhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyh1104&show_icons=true&theme=radical)
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
+
+</div>
 
 <!--
 **seoyh1104/seoyh1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
