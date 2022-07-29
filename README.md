@@ -73,12 +73,14 @@
 ### ✨ Most Used Languages ✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyh1104&layout=compact&theme=radical)](https://github.com/seoyh1104)
 
+</div>
+
 ## 📬 Contacts 📬
-✨ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=github&link=https://soo-vely-dev.tistory.com/)](https://seoyh1104.github.io)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:seoyh1104@naver.com)](mailto:seoyh1104@naver.com) ✨
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=github&link=https://soo-vely-dev.tistory.com/)](https://seoyh1104.github.io)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:seoyh1104@naver.com)](mailto:seoyh1104@naver.com)
 
+<div align="center">
 ![footer](https://capsule-render.vercel.app/api?section=footer)
-
 </div>
 
 <!--
