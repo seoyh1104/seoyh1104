@@ -80,7 +80,9 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:seoyh1104@naver.com)](mailto:seoyh1104@naver.com)
 
 <div align="center">
+
 ![footer](https://capsule-render.vercel.app/api?section=footer)
+
 </div>
 
 <!--
