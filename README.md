@@ -75,7 +75,7 @@
 
 </div>
 
-## 📬 Contacts 📬
+## 📬 Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=github&link=https://soo-vely-dev.tistory.com/)](https://seoyh1104.github.io)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:seoyh1104@naver.com)](mailto:seoyh1104@naver.com)
 
