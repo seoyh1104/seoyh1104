@@ -65,15 +65,17 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
 -->
 
+<div align="center">
+
 ## 👑 My Github Stats 👑
 ![Yuhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyh1104&show_icons=true&theme=radical)
+
+### ✨ Most Used Languages ✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyh1104&layout=compact&theme=radical)](https://github.com/seoyh1104)
 
 ## 📬 Contacts 📬
 ✨ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=github&link=https://soo-vely-dev.tistory.com/)](https://seoyh1104.github.io)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:seoyh1104@naver.com)](mailto:seoyh1104@naver.com) ✨
-
-<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
