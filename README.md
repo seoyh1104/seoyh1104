@@ -4,6 +4,7 @@
 
 </div>
 
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white)](https://seoyh1104.github.io)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=26&color=9600F7&center=true&lines=Hi+there%F0%9F%91%8B%2C+I'm+Yuhui+Seo.)](https://git.io/typing-svg)
 
 
@@ -39,6 +40,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 
+- 📝 IDEs/Editors and Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+
+<!--
 - 🎛️ Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flatlogo=android&logoColor=white)
@@ -46,29 +54,27 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-- 📝 IDEs/Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
-
-- 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android%20Studio&logoColor=white)
-
 - 💻 ML/DL
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
+- 🏢 Office
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white)
+
 - 🎨 Design
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-
-
-## My Github Stats
-![Yuhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyh1104&show_icons=true&theme=radical)
+-->
 
 <div align="center">
+
+## 👑 My Github Stats 👑
+![Yuhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyh1104&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyh1104&layout=compact&theme=radical)](https://github.com/seoyh1104)
+
+
+## 📬 Contacts 📬
+✨ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=github&link=https://soo-vely-dev.tistory.com/)](https://seoyh1104.github.io)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:seoyh1104@naver.com)](mailto:seoyh1104@naver.com) ✨
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
