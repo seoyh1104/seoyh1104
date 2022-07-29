@@ -71,7 +71,7 @@
 ![Yuhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyh1104&show_icons=true&theme=radical)
 
 ### ✨ Most Used Languages ✨
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyh1104&layout=compact&theme=radical)](https://github.com/seoyh1104)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyh1104&layout=compact&theme=radical)](https://github.com/seoyh1104/seoyh1104.github.io)
 
 </div>
 
