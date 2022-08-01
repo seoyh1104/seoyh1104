@@ -5,7 +5,7 @@
 </div>
 
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white)](https://seoyh1104.github.io)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=26&color=9600F7&center=true&lines=Hi+there%F0%9F%91%8B%2C+I'm+Yuhui+Seo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=26&color=9600F7&center=true&lines=Hi+there%F0%9F%91%8B%2C+I'm+Yuhui+Seo.)](https://seoyh1104.github.io)
 
 
 ## 🖥 Tech Stack
